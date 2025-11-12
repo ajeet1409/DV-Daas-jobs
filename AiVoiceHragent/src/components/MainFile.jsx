@@ -66,7 +66,7 @@ export default function VapiVoiceCaller() {
   // API CONFIGURATION
   // ============================================
 
-  const API_TOKEN = ' Dh8gwXv6e6lufSKB7nslGrFXR5hkxJQwVc86AJzKs18';
+  const API_TOKEN = 'Dh8gwXv6e6lufSKB7nslGrFXR5hkxJQwVc86AJzKs18';
   const AGENT_ID = 58031
 ; // Replace with your numeric agent ID from OmniDim dashboard
   const FROM_NUMBER_ID = 1089
